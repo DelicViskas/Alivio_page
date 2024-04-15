@@ -101,6 +101,7 @@
 }
 
 @media (max-width: 768px) {
+  
   .success__title {
     font-size: 30px;
     text-align: center;
